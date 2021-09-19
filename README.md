@@ -1,7 +1,7 @@
 # COBRA
 COBRA - Pentest the Modern Web
 
-Author: [Gh0st_3xp10!t] (https://twitter.com/ghostexploit/)
+Author: [Gh0st3xp101t] (https://twitter.com/ghostexploit/)
 
 Disclaimer: I am not responsible for any damage done using this tool. This tool should only be used for educational purposes and for penetration testing.
 
